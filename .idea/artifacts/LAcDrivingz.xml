@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LAcDrivingz">
+    <output-path>$PROJECT_DIR$/out/artifacts/LAcDrivingz</output-path>
+    <root id="archive" name="LAcDrivingz.jar">
+      <element id="module-output" name="LAcdrivingz" />
+    </root>
+  </artifact>
+</component>
