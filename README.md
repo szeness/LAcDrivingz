@@ -10,8 +10,8 @@ the second Gui thing I made after the Black Jack. I tried to get the 2D 3D illus
 
 
 the car can be moved left and right, a object coming towards it and if you hit one something happens.  
-
-very trashy and not finished at all.
+the stripes are moving.
+very trashy just for fun and trying how that works.
 
 
 
