@@ -9,9 +9,9 @@ the second Gui thing I made after the Black Jack. I tried to get the 2D 3D illus
 
 
 
-the car can be moved left and right, objects coming at him and the street seems moving 
+the car can be moved left and right, a object coming towards it and if you hit one something happens.  
 
-very trashy if u want and not finished at all but first 2D like back in the days I mean 1995 for example. 
+very trashy and not finished at all.
 
-also u can hit an object wich comes an then happens nothing special yet but it kinda lands in the trunk. 
+
 
